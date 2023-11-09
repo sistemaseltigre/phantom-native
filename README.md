@@ -1,4 +1,4 @@
-# Wallet Our Glass - React Native
+# Wallet  - React Native
 
 > This project was bootstrapped with [React Native](https://reactnative.dev/docs/environment-setup).
 
